@@ -1,3 +1,2 @@
-object MainIO extends IOApp.Simple {
+object MainIO extends IOApp.Simple:
    val run = IO.println("Hello, IO[World]!")
-}
