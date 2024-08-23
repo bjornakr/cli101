@@ -7,13 +7,10 @@
 //> using dep "io.circe::circe-parser:0.14.9",
 //> using dep "io.circe::circe-literal:0.14.9",
 
-//> using dep "com.lihaoyi::os-lib:0.10.2"
-//> using dep "com.lihaoyi::requests:0.8.3"
+//> using dep "com.lihaoyi::os-lib:0.10.4"
+//> using dep "com.lihaoyi::requests:0.9.0"
 
-
-
-//> using test.dep "org.scalameta::munit:0.7.29"
-//> using test.dep "org.typelevel::munit-cats-effect_2.0.0"
+//> using test.dep "org.typelevel::munit-cats-effect:2.0.0"
 
 export scala.util.chaining.*
 export cats.syntax.all.*
