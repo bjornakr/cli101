@@ -1,4 +1,7 @@
-//> using scala "3"
+//> using scala "3.5"
+
+//> using options -source:future -language:experimental.modularity
+//> using options -source:future -language:experimental.namedTuples
 
 //> using dep "org.typelevel::cats-core:2.12.0"
 //> using dep "org.typelevel::cats-effect:3.5.4"
